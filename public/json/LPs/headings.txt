@@ -1,0 +1,11 @@
+[
+{"title": "Исполнитель", "id": "artist"},
+{"title": "Альбом", "id": "album" },
+{"title": "Год альбома", "id": "albumYear"},
+{"title": "Лейбл", "id": "label"},
+{"title": "Страна", "id": "country"},
+{"title": "Год релиза", "id": "releaseYear"},
+{"title": "Код", "id": "code"},
+{"title": "Откуда", "id": "source"},
+{"title": "Действия", "id": "actions"}
+]

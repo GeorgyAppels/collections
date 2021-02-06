@@ -1,0 +1,12 @@
+[
+{"title": "Страна", "id": "country"},
+{"title": "Период", "id": "period" },
+{"title": "Валюта", "id": "currency"},
+{"title": "Номинал", "id": "value"},
+{"title": "Год", "id": "year"},
+{"title": "Лист в альбоме", "id": "listNumber"},
+{"title": "Дополнительно", "id": "additional"},
+{"title": "Цена, руб.", "id": "valueRUR"},
+{"title": "Источник", "id": "source"},
+{"title": "Действия", "id": "actions"}
+]
