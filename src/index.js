@@ -15,7 +15,7 @@ function readJSON(url)
     }
 }
 
-const wutt = 'LPs';
+const wutt = 'coins';
 const itemFile = 'json/' + wutt + '/items.txt';
 const headingsFile = 'json/' + wutt + '/headings.txt';
 let items = readJSON(itemFile);
